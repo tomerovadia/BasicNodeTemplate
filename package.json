@@ -20,5 +20,5 @@
     "url": "https://github.com/tomerovadia/TurquoisePorcupine/issues"
   },
   "homepage": "https://github.com/tomerovadia/TurquoisePorcupine#readme",
-  "run": "node app.js"
+  "start": "node app.js"
 }
