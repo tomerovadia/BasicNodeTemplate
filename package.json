@@ -8,6 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +20,5 @@
   "bugs": {
     "url": "https://github.com/tomerovadia/TurquoisePorcupine/issues"
   },
-  "homepage": "https://github.com/tomerovadia/TurquoisePorcupine#readme",
-  "start": "node app.js"
+  "homepage": "https://github.com/tomerovadia/TurquoisePorcupine#readme"
 }
